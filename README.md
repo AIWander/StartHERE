@@ -10,6 +10,12 @@ Built by one person. Apache 2.0 across the board. Permanently. No free tier that
 
 ---
 
+## Safe Use / Permission Model
+
+AIWander tools are local, user-authorized MCP capability surfaces. They do not grant an AI new permissions by themselves. They expose tools the user explicitly installs and enables. Sensitive actions should be confirmed by the user, credentials should stay in the OS keyring or local vault, and demos should use mock data.
+
+---
+
 ## The pieces
 
 | Repo | What it does | Tools |
@@ -22,7 +28,7 @@ Built by one person. Apache 2.0 across the board. Permanently. No free tier that
 | **[cpc-breadcrumbs](https://github.com/AIWander/cpc-breadcrumbs)** | Shared crate — crash-safe operation tracking | library |
 | **[cpc-paths](https://github.com/AIWander/cpc-paths)** | Shared crate — portable path discovery | library |
 | **[voice](https://github.com/AIWander/voice)** | Talk to Claude Desktop - faster-whisper STT + edge-tts TTS | 10 |
-| **[mcp-obsidian-bridge](https://github.com/AIWander/mcp-obsidian-bridge)** | Bridge local stdio MCP servers to claude.ai over HTTPS | utility |
+| **[mcp-obsidian-bridge](https://github.com/AIWander/mcp-obsidian-bridge)** | Permissioned HTTPS bridge for local MCP development and testing | utility |
 
 Voice — talk to your AI while it works, it keeps running tools while you're thinking — is now live.
 
@@ -150,4 +156,4 @@ I don't have a programming background. Every line of code in these repos was wri
 
 No company. No SaaS. No funding. No servers. Apache 2.0. Free forever.
 
-File issues on any repo, or email [josephwander@gmail.com](mailto:josephwander@gmail.com). If something here saved you time, Cash App `$NeverRemember`.
+File issues on any repo, or email contact@aiwander.ai. If something here saved you time, Cash App `$NeverRemember`.
