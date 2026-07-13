@@ -156,4 +156,4 @@ I don't have a programming background. Every line of code in these repos was wri
 
 No company. No SaaS. No funding. No servers. Apache 2.0. Free forever.
 
-File issues on any repo, or email contact@aiwander.ai. If something here saved you time, Cash App `$NeverRemember`.
+File issues on any repo, or email contact@aiwander.ai.
