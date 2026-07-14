@@ -36,8 +36,6 @@ repository.
 
 | Tool | Use it when |
 |---|---|
-| [workflow](https://github.com/AIWander/workflow) | You want to capture a browser workflow once and replay the underlying API later |
-| [local](https://github.com/AIWander/local) | You want a general Windows files, shell, git, and persistent-session surface |
 | [ops](https://github.com/AIWander/ops) | You want a lightweight local execution server with breadcrumbs and reminders |
 | [manager-universal](https://github.com/AIWander/manager-universal) | You are testing multi-AI delegation; manager and its dashboard are **Beta and coming soon** as a polished public product |
 | [CPC-Suite](https://github.com/AIWander/CPC-Suite) | You want signed bundle installers instead of installing products one at a time |
