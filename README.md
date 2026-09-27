@@ -37,26 +37,20 @@ repository.
 | Tool | Use it when |
 |---|---|
 | [ops](https://github.com/AIWander/ops) | You want a lightweight local execution server with breadcrumbs and reminders |
-| [manager-universal](https://github.com/AIWander/manager-universal) | You are testing multi-AI delegation; manager and its dashboard are **Beta and coming soon** as a polished public product |
+| Manager (repository not public yet) | You are testing multi-AI delegation; Manager and its dashboard are **in beta** and ship in the CPC-Suite Ops installer |
 | [CPC-Suite](https://github.com/AIWander/CPC-Suite) | You want signed bundle installers instead of installing products one at a time |
 
-The manager/dashboard bundle is not presented as production-ready. Its current public status is
-Beta and coming soon.
+The Manager/dashboard bundle is not presented as production-ready. Its current public status is
+beta.
 
-## CPC Complete
+## Autonomous by AutoCache
 
-CPC Complete is the paid system layer: governed memory, shared truth, automation, onboarding,
-and coordination across the AIs you use. It builds over the public capability tools rather
-than charging for Programmer-Wander, AI-Hands, or Voice-Command.
+Autonomous is the one paid line: a local engine and files you own, so the AI you use can pick up
+where it left off across models, agents, and sessions. It is sold through
+[autocache.ai](https://autocache.ai) and runs on your machine, not as a hosted service. Everything
+else on this page is free.
 
-Pricing is not published here. The product, licensing, checkout, and release package must pass
-their verification gates before a public listing exists.
-
-## Bridge
-
-Bridge is a planned **$5/month** relay between a cloud AI and tools on the customer's own
-machine. It passes tool calls; it does not rent or host a model. Bridge is not available for
-purchase yet.
+Autonomous is in private preview, and pricing is not published.
 
 ## How the pieces fit
 
@@ -77,9 +71,8 @@ is simply the fastest common starting point.
 ## Honest status
 
 - AI-Hands, Voice-Command, and Programmer-Wander are free public tools.
-- The manager and dashboard are Beta and coming soon as a polished product.
-- CPC Complete is not publicly priced or on sale yet.
-- Bridge is not live yet.
+- Manager and its dashboard are free and in beta; the repository is not public yet.
+- Autonomous by AutoCache is in private preview; pricing is not published.
 - The public repositories are the reusable product layer; Joseph's private knowledge and
   personal operating data are not included.
 
